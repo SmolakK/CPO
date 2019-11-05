@@ -1,0 +1,21 @@
+Zadanie:
+
+Zdefiniuj zmienne:
+
+a - liczbową zmiennoprzecinkową
+b - liczbową całkowitą
+c - tekstową
+d - tekstową
+
+Zbadaj wyniki działań, określ typ zmiennej wyjściowej:
+
+a + b
+a / b
+b / a
+c + d
+a * c
+a % b
+c / d
+d + b
+
+w przypadku błędów, wykorzystaj rzutowanie typów tak, by operacja się wykonała
