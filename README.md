@@ -11,3 +11,5 @@
 <a href="https://github.com/SmolakK/CPO/raw/master/Obrazy_Python/Obrazy_Python5.zip"> Przetwarzanie obrazow 4 </a>
 
 <a href="https://github.com/SmolakK/CPO/raw/master/Obrazy_Python/Obrazy_Python_6.zip"> Przetwarzanie obrazow 5 </a>
+
+<a href="https://github.com/SmolakK/CPO/raw/master/Obrazy_Python/Obrazy_Python7.zip"> Przetwarzanie obrazow 6 </a>
